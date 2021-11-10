@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<a href="https://github.com/MateusHolandaDev/Criative_Idea">
+<a href="https://github.com/MateusHolandaDev/Criative-Idea">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusholandadev&repo=Criative-Idea&theme=dark" />
 </a>
 <a href="https://github.com/MateusHolandaDev/Acordes">
