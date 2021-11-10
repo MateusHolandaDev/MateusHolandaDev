@@ -7,8 +7,7 @@
 - Web Full Stack Developer Student.
 ##
 <br>
-<br>
-<br>
+
 <div>
 <a href="https://github.com/MateusHolandaDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusHolandaDev&show_icons=true&theme=dark" />
@@ -18,6 +17,20 @@
 </a>
 </div>
 
+<br>
+<br>
+<br>
+
+<a href="https://github.com/MateusHolandaDev/Criative_Idea">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusholandadev&repo=Criative-Idea&theme=dark" />
+</a>
+<a href="https://github.com/MateusHolandaDev/Acordes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusholandadev&repo=Acordes&theme=dark" />
+</a>
+</div>
+
+
+<br>
 <br>
 <br>
 <br>
